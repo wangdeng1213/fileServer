@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JMWFile"
+  id="myeclipse.1347327501650"
+  context-root="/JMWFile"
+  j2ee-spec="5.0"
+  archive="JMWFile.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
